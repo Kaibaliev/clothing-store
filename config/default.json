@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "chingiz mern",
+  "mongoUri": "mongodb+srv://user1:1234qwer@cluster0.ftf30.mongodb.net/clothing-store?retryWrites=true&w=majority"
+}
