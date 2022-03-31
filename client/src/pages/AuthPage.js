@@ -43,7 +43,7 @@ export const AuthPage = () => {
     <div className="row">
       <div className="col s5 offset-s3">
         <h4>Baby store</h4>
-        <div className="card deep-purple darken-3">
+        <div className="card indigo darken-2">
           <div className="card-content white-text">
             <span className="card-title">Log In</span>
             <div>
